@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "title": "E-Commerce Platform",
+    "description": "A scalable full-stack e-commerce platform built with React, Node.js, and AWS services. Features include product catalog, shopping cart, payment processing, and admin dashboard with real-time analytics.",
+    "techStack": ["React", "Node.js", "AWS", "PostgreSQL", "Redis"],
+    "demoUrl": "https://ecommerce-demo.abhinav.dev",
+    "githubUrl": "https://github.com/abhinav/ecommerce-platform",
+    "image": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=800&q=80"
+  },
+  {
+    "id": 2,
+    "title": "Real-Time Chat Application",
+    "description": "A real-time messaging app with WebSocket connections, user authentication, and message persistence. Built for scalability with Redis pub/sub and horizontal scaling capabilities.",
+    "techStack": ["React", "Node.js", "Socket.io", "Redis", "MongoDB"],
+    "demoUrl": "https://chat-demo.abhinav.dev",
+    "githubUrl": "https://github.com/abhinav/realtime-chat",
+    "image": "https://images.unsplash.com/photo-1582750433310-80fb1014f9a5?w=800&q=80"
+  },
+  {
+    "id": 3,
+    "title": "Data Pipeline ETL System",
+    "description": "An automated data pipeline for processing large datasets using AWS Lambda, S3, and Glue. Processes 10TB+ monthly with built-in monitoring and error handling.",
+    "techStack": ["Python", "AWS Lambda", "AWS S3", "AWS Glue", "Apache Airflow"],
+    "demoUrl": "https://etl-demo.abhinav.dev",
+    "githubUrl": "https://github.com/abhinav/data-pipeline-etl",
+    "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=800&q=80"
+  }
+]
