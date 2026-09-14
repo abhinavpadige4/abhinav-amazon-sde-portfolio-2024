@@ -194,3 +194,5 @@ This project is open source and available under the [MIT License](LICENSE).
 ---
 
 **Built with ❤️ for Amazon SDE applications**
+
+*Last updated: November 2024*
